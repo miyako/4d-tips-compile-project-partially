@@ -3,3 +3,5 @@
 
 # 4d-tips-compile-project-partially
 プロジェクトの一部をコンパイルモードで実行するには
+
+https://youtu.be/QuJjfvv5Jas
